@@ -1,0 +1,65 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto;
+}
+
+* {
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+body:not(.printable-receipt) {
+    background-color: #cfd9df;
+    background-image: linear-gradient(to top, #c4dfbe 0%, #ffffff 100%);
+}
+
+div.page-title,
+div.page-title * {
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #5e5e5e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.flashdata {
+    padding: 5px 10px;
+    background: #fff;
+    border: 1px solid #e7e7e7;
+    border-left: 8px solid var(--bs-gray-400);
+}
+
+.flashdata.flashdata-success {
+    border-left-color: var(--bs-success);
+}
+
+.flashdata.flashdata-danger {
+    border-left-color: var(--bs-danger);
+}
+
+.flashdata .flashdata-close {
+    text-decoration: none;
+    color: #777;
+}
+
+.flashdata .flashdata-close:hover {
+    color: #4f4f4f;
+}
+
+div#pre-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #d3d3d378;
+}
+
