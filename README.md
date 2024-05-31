@@ -42,7 +42,7 @@ Open your browser and navigate to http://localhost/ClassTrack-Attendance-System-
 2. Maintain attendance checklists for each class.
 3. Generate and view detailed attendance reports.
 
-#Contact
-For any inquiries or issues, please contact us at:
+# Contact
+For any inquiries or issues, please contact :
 
-Christian Andrei Tolentino Arzadon: christian@example.com
+Christian Andrei Tolentino Arzadon: arzzpaypal@gmail.com
