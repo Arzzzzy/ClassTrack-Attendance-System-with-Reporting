@@ -12,7 +12,7 @@ Flashdata: (Success Message/Warning Message)
 Sweetalert2: (Handles Delete/Error Message)
 
 # Team
-Arzadon, Christian Andrei Tolentino - Backend (Team Leader)
-Caranto, Althea Margharette - Frontend
-Domingo, Fritzjerald Lagmay - Backend
-Gumabay, Carl John - Frontend
+1. Arzadon, Christian Andrei Tolentino - Backend (Team Leader)
+2. Caranto, Althea Margharette - Frontend
+3. Domingo, Fritzjerald Lagmay - Backend
+4. Gumabay, Carl John - Frontend
