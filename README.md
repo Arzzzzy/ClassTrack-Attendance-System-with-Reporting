@@ -17,7 +17,7 @@ ClassTrack is a comprehensive class attendance system designed to streamline att
 3. Domingo, Fritzjerald Lagmay - Backend
 4. Gumabay, Carl John - Frontend
 
-3 Installation
+# Installation
 Clone the repository:
 
 bash
@@ -35,30 +35,14 @@ Update the database connection settings in the dbconnect.php file.
 Start the server:
 
 If you are using XAMPP, place the project folder in the htdocs directory and start the Apache and MySQL services.
-Open your browser and navigate to http://localhost/classtrack.
-Usage
-Add classes and students through the provided interfaces.
-Maintain attendance checklists for each class.
-Generate and view detailed attendance reports.
-Contributing
-Fork the repository.
-Create your feature branch:
-bash
-Copy code
-git checkout -b feature/your-feature
-Commit your changes:
-bash
-Copy code
-git commit -m 'Add some feature'
-Push to the branch:
-bash
-Copy code
-git push origin feature/your-feature
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Open your browser and navigate to http://localhost/ClassTrack-Attendance-System-with-Reporting/
 
-Contact
+#Usage
+1. Add classes and students through the provided interfaces.
+2. Maintain attendance checklists for each class.
+3. Generate and view detailed attendance reports.
+
+#Contact
 For any inquiries or issues, please contact us at:
 
 Christian Andrei Tolentino Arzadon: christian@example.com
