@@ -1,1 +1,0 @@
- Our system, ClassTrack, is a comprehensive class attendance system designed to streamline attendance management. It includes features for adding class lists, adding student lists, and maintaining attendance checklists. Additionally, it generates detailed attendance reports to help educators keep track of student participation.
