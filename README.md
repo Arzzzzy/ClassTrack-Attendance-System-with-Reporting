@@ -37,7 +37,7 @@ Start the server:
 If you are using XAMPP, place the project folder in the htdocs directory and start the Apache and MySQL services.
 Open your browser and navigate to http://localhost/ClassTrack-Attendance-System-with-Reporting/
 
-#Usage
+# Usage
 1. Add classes and students through the provided interfaces.
 2. Maintain attendance checklists for each class.
 3. Generate and view detailed attendance reports.
